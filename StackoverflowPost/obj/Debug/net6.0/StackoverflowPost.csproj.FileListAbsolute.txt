@@ -1,0 +1,15 @@
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\bin\Debug\net6.0\StackoverflowPost.exe
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\bin\Debug\net6.0\StackoverflowPost.deps.json
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\bin\Debug\net6.0\StackoverflowPost.runtimeconfig.json
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\bin\Debug\net6.0\StackoverflowPost.dll
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\bin\Debug\net6.0\StackoverflowPost.pdb
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.csproj.AssemblyReference.cache
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.AssemblyInfoInputs.cache
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.AssemblyInfo.cs
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.csproj.CoreCompileInputs.cache
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.dll
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\refint\StackoverflowPost.dll
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.pdb
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\StackoverflowPost.genruntimeconfig.cache
+D:\Workrelated\csharp\StackoverflowPost\StackoverflowPost\obj\Debug\net6.0\ref\StackoverflowPost.dll
